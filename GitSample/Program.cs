@@ -10,6 +10,8 @@ namespace GitSample
     {
         static void Main(string[] args)
         {
+            Console.Write("Git Example by tham");
+            Console.ReadLine();
         }
     }
 }
